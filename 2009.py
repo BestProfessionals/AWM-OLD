@@ -1,4 +1,4 @@
-#ENCRYPTED BY  : MUHAMMAD HAMID KHAWAJA
+#ENCRYPTED BY  : Mirwais Danishyar
 #ENCRYPTION    : Py3 MARSHAL
 #Py3 Version   : 3.10.4
 
