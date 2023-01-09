@@ -1,3 +1,3 @@
-from OLD import main
+from new2004 import main
 
 main()
